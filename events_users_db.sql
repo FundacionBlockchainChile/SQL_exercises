@@ -67,3 +67,19 @@ ENGINE = InnoDB;
 SET SQL_MODE=@OLD_SQL_MODE;
 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
+
+
+-- SELECT * FROM world.city;
+
+-- INSERT INTO `world`.`city`
+-- (`ID`,
+-- `Name`,
+-- `CountryCode`,
+-- `District`,
+-- `Population`)
+-- VALUES
+-- (<{ID: }>,
+-- <{Name: }>,
+-- <{CountryCode: }>,
+-- <{District: }>,
+-- <{Population: }>);
