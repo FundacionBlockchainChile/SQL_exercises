@@ -7,11 +7,11 @@
       "previewLimit": 50,
       "server": "localhost",
       "port": 3306,
+      "askForPassword": true,
       "driver": "MySQL",
-      "name": "MySql_server",
-      "username": "root",
-      "password": "password",
-      "database": "world"
+      "name": "Local instance MySQL80",
+      "database": "blog",
+      "username": "root"
     }
   ]
 }
